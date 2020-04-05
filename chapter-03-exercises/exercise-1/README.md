@@ -14,3 +14,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
+
+### What I Ate for Breakfast Today:
+
+- Woke up quite late so did not eat Breakfast
+- Bought two USDA choice prime rib steaks
+- Made steak and avocado tacos!
